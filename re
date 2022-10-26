@@ -1,2 +1,1 @@
-#Manual de git
 # mis primeros apuntes
